@@ -12,7 +12,7 @@
 * **3rd-Services:** Firebase
 
 ## 📷 Screenshots
-![Thumbnail](https://firebasestorage.googleapis.com/v0/b/nghia-personal-profile.appspot.com/o/projects%2Fspotify-clean-architecture%2Fimages%2Fthumbnail.jpg?alt=media&token=25d54e5a-557b-4395-802f-a58bdf22c3c9)
+![Thumbnail](/assets/thumbnail.jpg)
 
 ## 🔥 How to run
 ```
