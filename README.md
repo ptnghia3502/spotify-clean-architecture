@@ -5,7 +5,7 @@
 * Clean architecture with: 3-Layers(Presentation, Domain, Data), State Management(BLoC)
 * You can login app with Google account.
 * Im not publish app on Google Play, you can download repo for education purposes.
-* 🔗 [Github Repo](https://github.com/ptnghia3502/mobile-quiz-app)
+* 🔗 [Github Repo](https://github.com/ptnghia3502/spotify-clean-architecture)
 
 ## 💻 Tech Stack
 * **Mobile:** Flutter
