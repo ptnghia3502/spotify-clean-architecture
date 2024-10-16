@@ -14,11 +14,16 @@
 ## 📷 Screenshots
 ![Thumbnail](/assets/thumbnail.jpg)
 
-## 🔥 How to run
+## ‼️ Setup
 ```
 git clone https://github.com/ptnghia3502/spotify-clean-architecture.git
 cd spotify-clean-architecture
 flutter pub get
+```
+
+## 🔥 How to run
+* Before you run, remember to import **google-services.json** to */android/app*
+```
 flutter run
 ```
 
